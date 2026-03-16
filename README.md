@@ -54,7 +54,7 @@ These are used during evaluation.
 **How to Run the Code**
 Open a terminal and navigate to the folder containing train.py and evaluate.py.
   
- ** Train the models**
+ **Train the models**
  
   cd path/to/assignment/code
   python train.py
