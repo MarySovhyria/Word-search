@@ -55,11 +55,14 @@ These are used during evaluation.
 Open a terminal and navigate to the folder containing train.py and evaluate.py.
   
  ** Train the models**
+ 
   cd path/to/assignment/code
   python train.py
   
   **Evaluate the system**
+  
   python evaluate.py
   
   **Evaluate and display solved puzzles**
+  
   python evaluate.py --display
