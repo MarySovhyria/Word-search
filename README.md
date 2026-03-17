@@ -6,7 +6,6 @@ This project builds a system that can automatically solve Word Search puzzles fr
 The input to the system is:
 
 A PNG image of a Word Search puzzle.
-A list of words that need to be found in the puzzle.
 The output of the system is:
 
 The position of each word in the grid, given as the row and column of the first letter and the row and column of the last letter.
